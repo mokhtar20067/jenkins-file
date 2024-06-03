@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/womnizco/public_html/
-    - /bin/cp -ruv . $DEPLOYPATH
